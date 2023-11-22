@@ -1,0 +1,11 @@
+#screen dimensions
+WIDTH = 800
+HEIGHT = 600
+TILE = 64
+
+#fish speed
+MIN_VELOCITY = 1.0
+MAX_VELOCITY = 9.0
+PLAYER_VELOCITY = 3
+NUM_LIVES = 6
+GRAVITY = .25
